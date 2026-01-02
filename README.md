@@ -21,4 +21,3 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 ---
-[![](https://visitcount.itsvg.in/api?id=Peeyush2005&icon=2&color=4)](https://visitcount.itsvg.in)
