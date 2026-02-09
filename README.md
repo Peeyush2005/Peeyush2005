@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently studying Computer Science and Engineering at Amity University Bengaluru.<br>🌱 I enjoy keeping up with the latest technology and continuously learning new skills.<br>👀 I’m interested in artificial intelligence, cloud computing, and software development.<br>💻 I work with Python, web development, and cloud platforms to build practical projects.<br>🌍 I’m active in developer communities as a Microsoft Learn Student Ambassador and GitHub Campus Experts.<br>♟️ I enjoy playing chess and participating in hackathons alongside coding.
+🎓 I’m currently studying Computer Science and Engineering.<br>🌱 I enjoy keeping up with the latest technology and continuously learning new skills.<br>👀 I’m interested in artificial intelligence, cloud computing, and software development.<br>💻 I work with Python, web development, and cloud platforms to build practical projects.<br>🌍 I’m active in developer communities as a Microsoft Learn Student Ambassador and GitHub Campus Experts.<br>♟️ I enjoy playing chess and participating in hackathons alongside coding.
 
 
 ## 🌐 Socials:
